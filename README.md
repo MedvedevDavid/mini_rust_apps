@@ -1,0 +1,1 @@
+# mini_rust_apps
